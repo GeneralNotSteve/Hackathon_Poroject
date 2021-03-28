@@ -1,0 +1,1 @@
+<bound method PlayerCharacter.default_crew of <playerCharacter.PlayerCharacter object at 0x00000255434E3D60>>
